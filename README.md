@@ -1,1 +1,1 @@
-# Data-visualization
+This is a copy of udacity Data visualization project for Data Foundation(DFND) Chapter 2(Introduction to data). Here, I tried to show how data can be visualized using microsoft excel. It also shows various charts that were created with microsoft ecel. From histogrm to cluster chart and ro mention a few. 
